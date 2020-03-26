@@ -1,4 +1,4 @@
 package com.example.myfirstapp;
 
-class DisplayMesssageActivity {
+public class DisplayMesssageActivity {
 }
